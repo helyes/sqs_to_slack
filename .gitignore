@@ -1,0 +1,7 @@
+node_modules
+build
+
+# all dotfiles except .gitignore
+.*
+!.gitignore
+output.txt
